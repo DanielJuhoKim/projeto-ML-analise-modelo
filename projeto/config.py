@@ -1,0 +1,9 @@
+DATA_FOLDER = 'data'
+
+ORIGINAL_DATASET_FOLDER = 'original'
+FILE_NAME_ORIG = 'adult.csv'
+
+PROCESSED_DATASET_FOLDER = 'processed'
+
+RANDOM_SEED = 42
+TEST_SIZE = 0.2
